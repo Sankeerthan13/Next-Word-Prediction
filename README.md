@@ -1,5 +1,6 @@
 # Next Word Prediction
-Welcome to the Next Word Prediction project! This project is focused on building a system that predicts the next word in a given sequence of text using Natural Language Processing (NLP) techniques and advanced neural network models.
+
+This project is designed to predict the next word in a given text sequence using Natural Language Processing (NLP) and deep-learning models. It implements sequence-modeling architectures such as LSTM and GRU to capture patterns in text data, preprocesses input text with NLP techniques, and aims to improve prediction accuracy using advanced neural networks.
 
 ## Overview
 
